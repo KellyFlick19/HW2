@@ -19,8 +19,14 @@ img { border: 5px solid black;
 }
 
 
+a:link {
+font-size: 40px;
+}
 
-
+ul {
+	text-align: none;
+	list-style-type: none
+	}
 
 
 
